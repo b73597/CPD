@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parse_app_id">YOUR_APPLICATION_ID</string>
+    <string name="parse_client_key">YOUR_CLIENT_KEY</string>
+
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">ParseStarterProject</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="button">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_crudlist">CRUDListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
